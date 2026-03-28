@@ -2,3 +2,8 @@ h{
         background-color: aliceblue;
     text-transform: capitalize;
 }
+p{
+    background-position: 0%;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
